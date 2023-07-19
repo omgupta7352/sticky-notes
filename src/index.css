@@ -1,0 +1,121 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #343434;
+}
+
+input,
+textarea {
+  outline: none;
+  resize: none;
+}
+
+.notes-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0;
+}
+
+.app-header__title {
+  margin: 10px 20px 0px;
+  font-family: Arial, sans-serif;
+  font-size: 60px;
+}
+
+.app-header__controls {
+  display: flex;
+  align-items: center;
+  margin: 10px 0 0 10px;
+}
+.id1 {
+  color: #ffc43d;
+}
+.id2 {
+  color: #ef476f;
+}
+.id3 {
+  color: #1b9aaa;
+}
+.id4 {
+  color: #06d6a0;
+}
+.search,
+.add-new {
+  font-size: 17px;
+  padding: 5px;
+  margin: 8px;
+}
+
+.search {
+  flex-grow: 1;
+  max-width: 350px;
+  border-radius: 20px;
+  border: 2px solid black;
+  background-color: rgb(44, 43, 43);
+}
+
+.add-new {
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 8px;
+  font-weight: bolder;
+  background-color: rgb(54, 49, 49);
+  color: #fff;
+  border: 2px solid black;
+  outline: none;
+}
+
+.note {
+  font-family: 'Permanent Marker', cursive;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: rgb(39, 39, 39);
+  color: #fff;
+  border: 1px solid grey;
+  box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.32), 0 6px 16px 0 rgba(0, 0, 0, 0.24),
+    0 6px 24px 0 rgba(0, 0, 0, 0.2), 0 6px 32px 0 rgba(0, 0, 0, 0.14);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.note__title,
+.note__description {
+  font-family: 'Permanent Marker', cursive;
+  width: 100%;
+  padding: 8px 14px;
+  background: transparent;
+}
+
+.note__title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.note__description {
+  flex-grow: 1;
+  font-size: 14px;
+}
+
+.note__delete {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 20px;
+  color: lightgrey;
+  padding: 5px;
+}
+
+.note__delete:hover {
+  color: black;
+  cursor: pointer;
+}

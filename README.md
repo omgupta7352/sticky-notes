@@ -1,4 +1,4 @@
-# STICKY NOTES
+# STICKY NOTES :writing_hand:
 
 ![STICKY NOTES](Notes.png)
 
@@ -6,7 +6,7 @@ The Sticky Notes is as the name suggests, ReactJs application you can use to cre
 sticky notes. The sticky notes are persistent in nature meaning your created sticky
 notes will be there the next time you open up the app. In short, it is sticky notes for web !
 
-## FEATURES ##
+## FEATURES :technologist:
 
  - Add text and lists
  - Search column to find specific notes
@@ -15,7 +15,7 @@ notes will be there the next time you open up the app. In short, it is sticky no
  - Real sticky notes look
  - Nice hand-writing-like font
 
-## BROWSER SUPPORT ##
+## BROWSER SUPPORT :man_technologist:
 
 Chrome, Firefox 3.5+, Safari 4+, Opera 10+, Internet Explorer 8+
 # sticky-notes

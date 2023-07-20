@@ -1,6 +1,6 @@
 # STICKY NOTES
 
-![STICKY NOTES](https://react-kbc5fn.stackblitz.io/)
+![STICKY NOTES](Notes.png)
 
 The Sticky Notes is as the name suggests, ReactJs application you can use to create
 sticky notes. The sticky notes are persistent in nature meaning your created sticky

@@ -26,7 +26,7 @@ notes will be there the next time you open up the app. In short, it is sticky no
 
 ## Demo
 
-You can try out the clock live [here](https://omgupta7352.github.io/analog_clock/).
+You can try out the clock live [here](https://react-kbc5fn.stackblitz.io/).
 
 ## Technologies Used
 

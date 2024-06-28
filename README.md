@@ -6,19 +6,6 @@ The Sticky Notes is as the name suggests, ReactJs application you can use to cre
 sticky notes. The sticky notes are persistent in nature meaning your created sticky
 notes will be there the next time you open up the app. In short, it is sticky notes for web !
 
-## FEATURES :technologist:
-
- - Add text and lists
- - Search column to find specific notes
- - Customize Width and Height
- - Responsive WebApp
- - Real sticky notes look
- - Nice hand-writing-like font
-
-# Sticky Notes
-
-The Sticky Notes project is a web-based application that allows users to create, edit, and delete sticky notes for organizing their tasks and thoughts. This project is built using HTML, CSS, JavaScript, and React.
-
 ## Table of Contents
 
 - [Features](#features)
@@ -28,7 +15,7 @@ The Sticky Notes project is a web-based application that allows users to create,
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## Features :technologist:
 
 - Create new sticky notes with custom content.
 - Edit existing sticky notes.

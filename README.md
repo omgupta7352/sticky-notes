@@ -14,7 +14,6 @@ notes will be there the next time you open up the app. In short, it is sticky no
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features :technologist:
 
@@ -42,7 +41,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sticky_notes.git
+    git clone https://github.com/omgupta7352/sticky-notes.git
     ```
 
 2. Navigate to the project directory:
@@ -98,6 +97,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 5. Open a pull request on GitHub.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

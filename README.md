@@ -9,6 +9,7 @@ notes will be there the next time you open up the app. In short, it is sticky no
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -22,6 +23,10 @@ notes will be there the next time you open up the app. In short, it is sticky no
 - Delete sticky notes.
 - Responsive design for mobile and desktop use.
 - Save notes to local storage to persist them across sessions.
+
+## Demo
+
+You can try out the clock live [here](https://omgupta7352.github.io/analog_clock/).
 
 ## Technologies Used
 

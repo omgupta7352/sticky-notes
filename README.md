@@ -25,7 +25,7 @@ notes will be there the next time you open up the app. In short, it is sticky no
 
 ## Demo
 
-You can try out the clock live [here](https://react-kbc5fn.stackblitz.io/).
+You can try out the Sticky Notes live [here](https://react-kbc5fn.stackblitz.io/).
 
 ## Technologies Used
 
